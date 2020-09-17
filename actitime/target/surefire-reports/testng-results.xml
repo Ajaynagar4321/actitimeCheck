@@ -1,17 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
+    <line>
+      <![CDATA[rrr]]>
+    </line>
+    <line>
+      <![CDATA[dfds]]>
+    </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="72" started-at="2020-09-17T13:25:26 IST" finished-at="2020-09-17T13:25:26 IST">
+  <suite name="Suite" duration-ms="61" started-at="2020-09-17T13:31:52 IST" finished-at="2020-09-17T13:31:52 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="72" started-at="2020-09-17T13:25:26 IST" finished-at="2020-09-17T13:25:26 IST">
+    <test name="Test" duration-ms="61" started-at="2020-09-17T13:31:52 IST" finished-at="2020-09-17T13:31:52 IST">
       <class name="com.actitime.test.actitime.TestDemo">
-        <test-method status="PASS" signature="testDemo()[pri:0, instance:com.actitime.test.actitime.TestDemo@464bee09]" name="testDemo" duration-ms="9" started-at="2020-09-17T13:25:26 IST" finished-at="2020-09-17T13:25:26 IST">
+        <test-method status="PASS" signature="testDemo()[pri:0, instance:com.actitime.test.actitime.TestDemo@3fee9989]" name="testDemo" duration-ms="0" started-at="2020-09-17T13:31:52 IST" finished-at="2020-09-17T13:31:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDemo -->
       </class> <!-- com.actitime.test.actitime.TestDemo -->
+      <class name="com.actitime.test.actitime.NWEW">
+        <test-method status="PASS" signature="fff()[pri:0, instance:com.actitime.test.actitime.NWEW@4cf777e8]" name="fff" duration-ms="6" started-at="2020-09-17T13:31:52 IST" finished-at="2020-09-17T13:31:52 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[rrr]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fff -->
+      </class> <!-- com.actitime.test.actitime.NWEW -->
+      <class name="com.actitime.test.actitime.Te">
+        <test-method status="PASS" signature="ru()[pri:0, instance:com.actitime.test.actitime.Te@2f686d1f]" name="ru" duration-ms="0" started-at="2020-09-17T13:31:52 IST" finished-at="2020-09-17T13:31:52 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[dfds]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ru -->
+      </class> <!-- com.actitime.test.actitime.Te -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
